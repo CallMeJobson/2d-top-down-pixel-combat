@@ -15,6 +15,12 @@ Started: 3/29/2023
 
 
 
+#### Player movement
+- Added a player controller script
+- Added A 2-D ridge body 
+- Continous Collision Detection 
+
+
 ## Optimizations
 *(optional)*
 
